@@ -6,4 +6,11 @@ Buid using C# and created many scripts to handle complex in-game logic. Designed
 
 ## Illustrations
 
-![Game Images](https://github.com/GURPREETSINGHMULTANI/Unity-Game-Dungeon-Shooter/blob/master/Dungeon%20Shooter%20Images/1.png?raw=true)
+![Game Images](https://github.com/GURPREETSINGHMULTANI/Unity-Game-Block-Breaker/blob/master/Block%20Breaker%20Images/pic1.png?raw=true)
+
+![Game Images](https://github.com/GURPREETSINGHMULTANI/Unity-Game-Block-Breaker/blob/master/Block%20Breaker%20Images/pic2.png?raw=true)
+
+![Game Images](https://github.com/GURPREETSINGHMULTANI/Unity-Game-Block-Breaker/blob/master/Block%20Breaker%20Images/pic4.png?raw=true)
+
+![Game Images](https://github.com/GURPREETSINGHMULTANI/Unity-Game-Block-Breaker/blob/master/Block%20Breaker%20Images/pic3.png?raw=true)
+
